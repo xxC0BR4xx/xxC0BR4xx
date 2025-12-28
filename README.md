@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://githubcard.com/xxC0BR4xx.svg?d=OGU4l_xb]
+![GitHub Card](https://githubcard.com/xxC0BR4xx.svg?d=SSOPps2V)
 
 <!--
 **xxC0BR4xx/xxC0BR4xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
