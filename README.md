@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxC0BR4xx)](https://github.com/anuraghazra/github-readme-stats)
+[![xxC0BR4xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxC0BR4xx)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
