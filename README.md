@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[[[![xxC0BR4xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxC0BR4xx)](https://github.com/anuraghazra/github-readme-stats)
-](https://githubcard.com/xxC0BR4xx.svg?d=OGU4l_xb)](https://githubcard.com/xxC0BR4xx.svg?d=OGU4l_xb)
+https://githubcard.com/xxC0BR4xx.svg?d=OGU4l_xb
 
 <!--
 **xxC0BR4xx/xxC0BR4xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
